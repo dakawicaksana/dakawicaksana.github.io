@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat',sans-serif;
+}
+
+.navbar{
+  background-color: #008080;
+}
+
+#hero{
+  padding: 100% 0;
+  max-height: 100%;
+}
+
+.student{
+  color: #44bcd8;
+}
+
+.smk{
+  background-color: #008080;
+}
+
+#contact{
+  background-color: #008080;
+}
+
+/* custom style start */
+
+/* text color */
+.text-teal{
+  color: rgb(20 184 166);
+}
+/* text color */
+
+/* bg */
+.bg-teal{
+  background-color: rgb(20 184 166);
+}
+/* bg */
+
+/* custom style end */
